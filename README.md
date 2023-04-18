@@ -1,6 +1,13 @@
 # odin-recipes
 Practice Recipe Blog
-## I'm pretty sure this will be slightly smaller
+
+## This is just a template
+
+This template is intended to be a jumping off point for a website that will 
+be a collection of recipes. This sole purpose at this point is to practice
+HTML and CSS, and hopefully with a bit of peristence it will stop looking
+so rough.
+ 
 
 ***Attempt at a checklist***
 
