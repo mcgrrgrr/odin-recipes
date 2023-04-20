@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(242, 233, 228);
+    color: rgb(34, 34, 59);
+}
+
+h1 {
+    color: rgb(34, 34, 59);
+}
+
+.main.image {
+    height: 200px;
+    width: auto;
+}
+
+a {
+    color: rgb(154, 140, 152);
+}
+
+a:active {
+    color: rgb(201, 173, 167);
+}
