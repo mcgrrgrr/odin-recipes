@@ -1,21 +1,21 @@
 body {
-    background-color: rgb(242, 233, 228);
-    color: rgb(34, 34, 59);
+    background-color: lemonchiffon; 
+    color: black;
 }
 
 h1 {
-    color: rgb(34, 34, 59);
+    color: rgb(13, 59, 102);
 }
 
-.main.image {
+img {
     height: 200px;
     width: auto;
 }
 
 a {
-    color: rgb(154, 140, 152);
+    color: rgb(238, 150, 75);
 }
 
 a:active {
-    color: rgb(201, 173, 167);
+    color: rgb(249, 87, 56);
 }
