@@ -3,19 +3,29 @@ body {
     color: black;
 }
 
-h1 {
+nav a {
+    color: rgb(238, 150, 75);
+}
+
+nav a:active {
+    color: rgb(249, 87, 56);
+}
+
+h1, h2, h3 {
+    background-color: rgb(245, 235, 197);
     color: rgb(13, 59, 102);
 }
 
 img {
-    height: 200px;
+    height: 220px;
     width: auto;
 }
 
-a {
-    color: rgb(238, 150, 75);
+p, ul, ol {
+    font-size: 14px;
+    background-color: rgb(255, 245, 207);
 }
 
-a:active {
-    color: rgb(249, 87, 56);
+li {
+    background-color: rgb(255, 250, 212);
 }
