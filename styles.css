@@ -1,6 +1,7 @@
 body {
     background-color: lemonchiffon; 
     color: black;
+    font-family: Arial, Georgia, sans-serif;
 }
 
 nav a {
@@ -14,6 +15,10 @@ nav a:active {
 h1, h2, h3 {
     background-color: rgb(245, 235, 197);
     color: rgb(13, 59, 102);
+}
+
+h2 {
+    font-weight: 500;
 }
 
 img {
