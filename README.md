@@ -1,3 +1,9 @@
+
+<!-- This is going to be where I try to learn a little markdown. From 
+what I can see, it appears to be well within the realm of "evergreen"
+skills" so I have a hard time imagining that learning to be more
+proficient with it would be a waste of time-->
+
 # odin-recipes
 Practice Recipe Blog
 
@@ -11,7 +17,7 @@ so rough.
 
 ***Attempt at a checklist***
 
--[] Find original version of this file 
--[] Add that repo to your github 
--[] Finish this section 
--[] Study the way of the Master Programmer
+- [] Find original version of this file 
+- [] Add that repo to your github 
+- [] Finish this section 
+- [] Study the way of the Master Programmer
