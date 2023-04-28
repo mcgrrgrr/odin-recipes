@@ -1,20 +1,32 @@
 body {
-    background-color: lemonchiffon; 
+    background-color: #5f7367; 
     color: black;
     font-family: Arial, Georgia, sans-serif;
 }
 
+.navbar {
+    background-color: #04030F;
+    padding: 10px;
+    font-size: 10px;
+    text-align: left;
+
+}
+
+.main {
+    background-color: #04030F;
+}
+
 nav a {
-    color: rgb(238, 150, 75);
+    color: #E2DBBE;
 }
 
 nav a:active {
-    color: rgb(249, 87, 56);
+    color: #FFFFFF;
 }
 
 h1, h2, h3 {
-    background-color: rgb(245, 235, 197);
     color: rgb(13, 59, 102);
+    text-align: center;
 }
 
 h2 {
