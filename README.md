@@ -29,4 +29,4 @@ post a picture of a site that I am going to try and mimic but I don't think
 I would get too far it this point.
 
 **That's not a knife!**
-[Crocodile Dundee]: ../images/CrocodileDundee.png "This is a [knife](../images/programmer-dvorak-layout.png)"
+[Crocodile Dundee]: ./images/CrocodileDundee.png "This is a [knife](./images/programmer-dvorak-layout.png)"
