@@ -1,21 +1,39 @@
 body {
-    background-color: #5f7367; 
+    background-color: #04030F;
     color: black;
-    font-family: Arial, Georgia, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-.nav{
+.nav {
     background-color: #04030F;
     padding: 10px;
-    font-size: 10px;
+    font-size: 0.7rem;
     text-align: left;
+}
+
+.logo {
+    height: 20px;
+    width: 20px;
+    float: right;
 
 }
 
+.thumbnail {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+}
 .main {
-    background-color: #04030F;
+    width: 70% auto;
+    background-color: #5f7367; 
+    text-align: center;
 }
 
+.image {
+    width: 220px;
+    
+}
 nav a {
     color: #E2DBBE;
 }
@@ -31,11 +49,6 @@ h1, h2, h3 {
 
 h2 {
     font-weight: 500;
-}
-
-img {
-    height: 220px;
-    width: auto;
 }
 
 p, ul, ol {
