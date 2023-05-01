@@ -28,6 +28,9 @@ I should probably add some sort of picture to round out this bad larry. I would
 post a picture of a site that I am going to try and mimic but I don't think
 I would get too far it this point.
 
+
+![Crocodile Dundee](./images/CrocodileDundee.png)
+
 **That's not a knife!**
 
-[Crocodile Dundee]: ./images/CrocodileDundee.png "This is a [knife](./images/programmer-dvorak-layout.png)"
+"This is a [knife](./images/programmer-dvorak-layout.png)"
