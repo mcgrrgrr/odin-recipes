@@ -8,13 +8,13 @@ body {
     background-color: #04030F;
     padding: 10px;
     font-size: 0.7rem;
-    text-align: left;
+    display: inline-block;
 }
 
 .logo {
-    height: 20px;
-    width: 20px;
-    float: right;
+    height: 25px;
+    width: 25px;
+    padding: 5px;
 
 }
 
@@ -30,9 +30,13 @@ body {
     text-align: center;
 }
 
-.image {
+.mainImage {
     width: 220px;
-    
+}
+
+article {
+    background-color: #D5D6AA;
+    width: 70%
 }
 nav a {
     color: #E2DBBE;
