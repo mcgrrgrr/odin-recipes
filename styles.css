@@ -31,7 +31,8 @@ body {
 }
 
 .mainImage {
-    width: 220px;
+    display: block;
+    margin: auto;
 }
 
 article {
