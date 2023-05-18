@@ -1,6 +1,8 @@
 body {
     background-image: url(./images/kitchen.jpg);
     background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
     color: black;
     font-family:'Franklin Gothic Medium', Arial, sans-serif
 }
@@ -13,6 +15,25 @@ nav {
     background-color: #04030F;
     font-size: 0.7rem;
     display: inline-block;
+}
+
+main {
+    margin: 0;
+    width: auto;
+}
+
+.bg-wrap {
+    overflow: hidden;
+    position: relative;
+}
+
+.bg-image {
+    opacity: 0.6;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
 }
 
 .logo {
@@ -39,6 +60,8 @@ nav {
 article {
     background-color: #D5D6AA;
     width: 70%
+    margin: auto;
+    text-align: center;
 }
 nav a {
     color: #E2DBBE;
