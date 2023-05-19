@@ -7,7 +7,15 @@ proficient with it would be a waste of time-->
 # odin-recipes
 Practice Recipe Blog
 
-## This is just a template
+## This is the basic gist of what this repo is about:
+
+This is a dumpster fire, and that's okay.
+
+I am working on learning CSS and sometimes the commits won't be great. The 
+commit itself will be hopefully, but the markdown inside and how it renders on
+the page might be rough for awhile. Learing web development is a long and 
+necessary road, but I'm a little more interested in circuits and logic.
+
 
 This template is intended to be a jumping off point for a website that will 
 be a collection of recipes. This sole purpose at this point is to practice
@@ -26,7 +34,7 @@ so rough.
 
 I should probably add some sort of picture to round out this bad larry. I would
 post a picture of a site that I am going to try and mimic but I don't think
-I would get too far it this point.
+I would get that far at his point.
 
 
 ![Crocodile Dundee](./images/CrocodileDundee.png)
